@@ -1,0 +1,49 @@
+﻿@using Week4.Models
+@model List<User>
+
+<html>
+    <head>
+        <style>
+            table{
+                border-collapse:collapse;
+                width:100%;
+            }
+            th,td{
+                border:1px solid #dddddd;
+                padding:9px;
+                font-size:14px;
+            }
+
+            tr:nth-child(2n){
+                background-color:lightblue;
+            }
+            thead{
+                background-color:dimgrey;
+            }
+        </style>
+
+    </head>
+    <body>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Surname</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (User user in Model)
+                {
+                    <tr>
+                        <td>@user.ID</td>
+                        <td>@user.Name</td>
+                        <td>@user.Surname</td>
+                        <td>@user.Email</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </body>
+</html>

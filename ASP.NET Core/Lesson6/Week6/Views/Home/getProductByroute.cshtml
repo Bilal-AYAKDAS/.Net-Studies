@@ -1,0 +1,8 @@
+﻿@using Week6.Models
+
+@model Product
+
+@if(ViewBag.Error ==null)
+  {  <h1>@Model.Name</h1>}
+else
+{@ViewBag.Error}

@@ -1,0 +1,14 @@
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Week2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Week2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Week2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Week2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Week2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Week2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Week2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Calisma\Week2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Calisma\Week2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Calisma\Week2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Calisma\Week2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Calisma\Week2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Calisma\Week2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bilalayakdas\Desktop\DersNotları_24-25\.NetWebProgramming\Calisma\Week2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

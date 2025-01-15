@@ -1,0 +1,33 @@
+﻿@using WebApplication1.Models
+@using WebApplication1.Models.ViewModel
+@model UserListDate
+
+<p>
+    @Model.Date
+    @Model.user.ID
+    @Model.user.Name
+    @Model.user.Surname
+
+</p>
+
+<br/>
+
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.users)
+        {
+            <tr>
+                <td>@user.ID</td>
+                <td>@user.Name</td>
+                <td>@user.Surname</td>
+            </tr>
+        }
+    </tbody>
+</table>

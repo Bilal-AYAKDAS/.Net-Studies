@@ -1,0 +1,4 @@
+wwwroot\css\style.css
+wwwroot\images\chicago.jpg
+wwwroot\images\la.jpg
+wwwroot\images\ny.jpg

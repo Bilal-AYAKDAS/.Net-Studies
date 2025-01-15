@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "1MJ6fmv8JCUtEqPWvOvTneUTJ3/WuySTAxjuxyD4l/k=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jcb0w3uw9w",
+      "Integrity": "cyX5oDA8m6Vxe4HLTUan4b1ScG59W22nEfJ4KcMUlC8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\images\\chicago.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/chicago#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dmf7q97its",
+      "Integrity": "K6e5EbL4Jriw28ibaOJ4Rmec+W7DttDnQ8V/F4EFRgI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\chicago.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\images\\la.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/la#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "578krugtz3",
+      "Integrity": "fyaRinliv2b4l33Kufovwm+4vfh1N4y1HhY0fnSxygY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\la.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\images\\ny.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "images/ny#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vn8sich30c",
+      "Integrity": "JRM0HBm3+J7JjdweF5qc7JqdZM7i+zN0YCmqAbWIeN4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ny.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyX5oDA8m6Vxe4HLTUan4b1ScG59W22nEfJ4KcMUlC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 20:36:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cyX5oDA8m6Vxe4HLTUan4b1ScG59W22nEfJ4KcMUlC8="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.jcb0w3uw9w.css",
+      "AssetFile": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyX5oDA8m6Vxe4HLTUan4b1ScG59W22nEfJ4KcMUlC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 20:36:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jcb0w3uw9w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cyX5oDA8m6Vxe4HLTUan4b1ScG59W22nEfJ4KcMUlC8="
+        }
+      ]
+    },
+    {
+      "Route": "images/chicago.dmf7q97its.jpg",
+      "AssetFile": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\images\\chicago.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6e5EbL4Jriw28ibaOJ4Rmec+W7DttDnQ8V/F4EFRgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dmf7q97its"
+        },
+        {
+          "Name": "label",
+          "Value": "images/chicago.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K6e5EbL4Jriw28ibaOJ4Rmec+W7DttDnQ8V/F4EFRgI="
+        }
+      ]
+    },
+    {
+      "Route": "images/chicago.jpg",
+      "AssetFile": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\images\\chicago.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6e5EbL4Jriw28ibaOJ4Rmec+W7DttDnQ8V/F4EFRgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K6e5EbL4Jriw28ibaOJ4Rmec+W7DttDnQ8V/F4EFRgI="
+        }
+      ]
+    },
+    {
+      "Route": "images/la.578krugtz3.jpg",
+      "AssetFile": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\images\\la.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyaRinliv2b4l33Kufovwm+4vfh1N4y1HhY0fnSxygY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "578krugtz3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/la.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyaRinliv2b4l33Kufovwm+4vfh1N4y1HhY0fnSxygY="
+        }
+      ]
+    },
+    {
+      "Route": "images/la.jpg",
+      "AssetFile": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\images\\la.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyaRinliv2b4l33Kufovwm+4vfh1N4y1HhY0fnSxygY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyaRinliv2b4l33Kufovwm+4vfh1N4y1HhY0fnSxygY="
+        }
+      ]
+    },
+    {
+      "Route": "images/ny.jpg",
+      "AssetFile": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\images\\ny.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRM0HBm3+J7JjdweF5qc7JqdZM7i+zN0YCmqAbWIeN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRM0HBm3+J7JjdweF5qc7JqdZM7i+zN0YCmqAbWIeN4="
+        }
+      ]
+    },
+    {
+      "Route": "images/ny.vn8sich30c.jpg",
+      "AssetFile": "C:\\Users\\bilalayakdas\\Desktop\\DersNotları_24-25\\.NetWebProgramming\\Calisma\\Week13\\WebApplication1\\WebApplication1\\wwwroot\\images\\ny.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRM0HBm3+J7JjdweF5qc7JqdZM7i+zN0YCmqAbWIeN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vn8sich30c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ny.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRM0HBm3+J7JjdweF5qc7JqdZM7i+zN0YCmqAbWIeN4="
+        }
+      ]
+    }
+  ]
+}

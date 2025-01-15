@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "css/style.css",
+      "AssetFile": "css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyX5oDA8m6Vxe4HLTUan4b1ScG59W22nEfJ4KcMUlC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 20:36:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cyX5oDA8m6Vxe4HLTUan4b1ScG59W22nEfJ4KcMUlC8="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.jcb0w3uw9w.css",
+      "AssetFile": "css/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cyX5oDA8m6Vxe4HLTUan4b1ScG59W22nEfJ4KcMUlC8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 20:36:51 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jcb0w3uw9w"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cyX5oDA8m6Vxe4HLTUan4b1ScG59W22nEfJ4KcMUlC8="
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        }
+      ]
+    },
+    {
+      "Route": "images/chicago.dmf7q97its.jpg",
+      "AssetFile": "images/chicago.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6e5EbL4Jriw28ibaOJ4Rmec+W7DttDnQ8V/F4EFRgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dmf7q97its"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-K6e5EbL4Jriw28ibaOJ4Rmec+W7DttDnQ8V/F4EFRgI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/chicago.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/chicago.jpg",
+      "AssetFile": "images/chicago.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "71294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"K6e5EbL4Jriw28ibaOJ4Rmec+W7DttDnQ8V/F4EFRgI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-K6e5EbL4Jriw28ibaOJ4Rmec+W7DttDnQ8V/F4EFRgI="
+        }
+      ]
+    },
+    {
+      "Route": "images/la.578krugtz3.jpg",
+      "AssetFile": "images/la.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyaRinliv2b4l33Kufovwm+4vfh1N4y1HhY0fnSxygY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "578krugtz3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyaRinliv2b4l33Kufovwm+4vfh1N4y1HhY0fnSxygY="
+        },
+        {
+          "Name": "label",
+          "Value": "images/la.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/la.jpg",
+      "AssetFile": "images/la.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22914"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fyaRinliv2b4l33Kufovwm+4vfh1N4y1HhY0fnSxygY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fyaRinliv2b4l33Kufovwm+4vfh1N4y1HhY0fnSxygY="
+        }
+      ]
+    },
+    {
+      "Route": "images/ny.jpg",
+      "AssetFile": "images/ny.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRM0HBm3+J7JjdweF5qc7JqdZM7i+zN0YCmqAbWIeN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRM0HBm3+J7JjdweF5qc7JqdZM7i+zN0YCmqAbWIeN4="
+        }
+      ]
+    },
+    {
+      "Route": "images/ny.vn8sich30c.jpg",
+      "AssetFile": "images/ny.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JRM0HBm3+J7JjdweF5qc7JqdZM7i+zN0YCmqAbWIeN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 11 Jan 2025 06:21:00 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vn8sich30c"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JRM0HBm3+J7JjdweF5qc7JqdZM7i+zN0YCmqAbWIeN4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/ny.jpg"
+        }
+      ]
+    }
+  ]
+}

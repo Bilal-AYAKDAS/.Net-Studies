@@ -1,0 +1,33 @@
+﻿@using WebApplication1.Models
+
+<p>
+    @{
+        User user = ViewData["User"] as User;
+        <h3>@user.ID</h3>
+        <h3>@user.Name</h3>
+        <h3>@user.Surname</h3>
+    }
+
+   
+    @{
+        var users = ViewData["users"] as List<User>;
+    }
+
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Surname</th>
+        </tr>
+        @foreach(var item in users)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Name</td>
+                <td>@item.Surname</td>
+            </tr>
+        }
+    </table>
+
+
+</p>

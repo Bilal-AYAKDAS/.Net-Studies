@@ -1,0 +1,33 @@
+﻿
+@using WebApplication1.Models.Entities
+
+@model List<Student>
+
+<table class="table table-hover">
+    <thead class="table table-dark">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Adress</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            foreach (Student student in Model)
+            {
+                <tr>
+                    <td>@student.Id</td>
+                    <td>@student.Name</td>
+                    <td>@student.Email</td>
+                    <td>@student.Phone</td>
+                    <td>@student.Address</td>
+                </tr>
+                
+            }
+
+        }
+
+    </tbody>
+</table>

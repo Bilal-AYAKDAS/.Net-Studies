@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|c:\\users\\bilalayakdas\\desktop\\dersnotlar\u0131_24-25\\.netwebprogramming\\calisma\\c#-studies\\lesson8\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|c:\\users\\bilalayakdas\\desktop\\dersnotlar\u0131_24-25\\.netwebprogramming\\calisma\\c#-studies\\lesson8\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|c:\\users\\bilalayakdas\\desktop\\dersnotlar\u0131_24-25\\.netwebprogramming\\calisma\\c#-studies\\lesson8\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|c:\\users\\bilalayakdas\\desktop\\dersnotlar\u0131_24-25\\.netwebprogramming\\calisma\\c#-studies\\lesson8\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|c:\\users\\bilalayakdas\\desktop\\dersnotlar\u0131_24-25\\.netwebprogramming\\calisma\\c#-studies\\lesson8\\webapplication1\\views\\home\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\page2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|c:\\users\\bilalayakdas\\desktop\\dersnotlar\u0131_24-25\\.netwebprogramming\\calisma\\c#-studies\\lesson8\\webapplication1\\views\\home\\loginasstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\loginasstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|c:\\users\\bilalayakdas\\desktop\\dersnotlar\u0131_24-25\\.netwebprogramming\\calisma\\c#-studies\\lesson8\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|c:\\users\\bilalayakdas\\desktop\\dersnotlar\u0131_24-25\\.netwebprogramming\\calisma\\c#-studies\\lesson8\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95F1E354-54E3-40E8-95C7-2F127DBE4D27}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T20:16:51.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T20:16:14.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page2.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\Home\\Page2.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Page2.cshtml",
+              "ToolTip": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\Home\\Page2.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Page2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T20:14:42.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginAsStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\Home\\LoginAsStudent.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\LoginAsStudent.cshtml",
+              "ToolTip": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\Home\\LoginAsStudent.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\LoginAsStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T20:14:21.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T20:49:32.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:48:38.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:46:52.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bilalayakdas\\Desktop\\DersNotlar\u0131_24-25\\.NetWebProgramming\\Calisma\\C#-Studies\\Lesson8\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-11T20:25:24.874Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

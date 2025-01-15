@@ -1,0 +1,10 @@
+﻿@using Week6.Models
+
+@model List<Product>
+
+    <ul>
+            @foreach(Product item in Model)
+            {
+                <li>@item.Name</li>
+            }
+    </ul>

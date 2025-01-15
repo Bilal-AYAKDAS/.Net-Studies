@@ -1,0 +1,24 @@
+﻿@using Week4.Models
+
+<h1>
+    Merhaba ,@ViewBag.Name İyi Akşamlar
+</h1>
+
+<h2>
+    @ViewBag.person.Name
+    <br/>
+    @ViewBag.person.Surname
+    <br/>
+    @ViewBag.person.Email
+</h2>
+
+<ul>
+    @{
+        foreach(User u in ViewBag.Persons)
+        {
+            <li>@u.Name</li>
+            <li>@u.Surname</li>
+        }
+    }
+
+</ul>
